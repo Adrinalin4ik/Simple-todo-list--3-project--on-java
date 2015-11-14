@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ListSample!</string>
+    <string name="app_name">Task 6</string>
+    <string name="kIndexRequest">https://serene-castle-3534.herokuapp.com/</string>
+    <string name="title_activity_todo_create">TodoCreate</string>
+    <string name="new_todo">Новая задача</string>
+    <string name="add_todo_edittext_hint">Задача</string>
+    <string name="Back_btn">Back</string>
+    <string name="ok_btn">OK</string>
+    <string name="server_url_create">https://lit-shelf-1606.herokuapp.com/project</string>
+</resources>
